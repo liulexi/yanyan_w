@@ -1,0 +1,72 @@
+1550124982912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.U0kWR2O0GOVW"
+1550124985077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550124985077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550124991838	Marionette	INFO	Listening on port 54983
+1550124993572	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550125719543	Marionette	INFO	Stopped listening on port 54983
+1551446099670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZebjIMqrjldX"
+1551446102205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551446102205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551446106246	Marionette	INFO	Listening on port 51032
+1551446106412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551446111839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+send@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:4:26639
+ajax@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:4:22288
+f.fn.ajaxSubmit@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.form.min.js:11:2866
+@https://www.juhe.cn/js/v6/login/login.js?v=1.1:39:30
+dispatch@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:3:12392
+add/r.handle@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:3:9156
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551446134377	Marionette	INFO	Stopped listening on port 51032
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Parent 8172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8172, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Child 7336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7336, 1551446138970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PTX9RqEvJFZo"
+1551446139621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551446139621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551446141609	Marionette	INFO	Listening on port 51104
+1551446141687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551446184247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+send@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:4:26639
+ajax@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:4:22288
+f.fn.ajaxSubmit@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.form.min.js:11:2866
+@https://www.juhe.cn/js/v6/login/login.js?v=1.1:39:30
+dispatch@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:3:12392
+add/r.handle@https://juhecdn.oss-cn-hangzhou.aliyuncs.com/jquery/jquery.min.js:3:9156
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1551446188320	Marionette	INFO	Stopped listening on port 51104
+[Parent 8708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8380, Chrome_ChildThread] WA[Parent 8708, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
